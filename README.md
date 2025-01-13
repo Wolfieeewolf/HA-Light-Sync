@@ -39,6 +39,8 @@ As such:
    - Add your Long-Lived Access Token
    - Select the lights you want to control
 
+If you have issues getting it to run put the QT5Network.dll in your main OpenRGB directory where the OpenRGB.exe file is.
+
 ## Open Source and Collaboration
 
 Feel free to fork this repository and modify it however you like! This project is meant to be:
