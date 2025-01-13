@@ -29,12 +29,12 @@ As such:
 
 ## Installation
 
-1. Download the plugin file (Home Assistant.dll)
-2. Place it in your OpenRGB plugins folder:
+1. Download the plugin file (HA Light Sync.dll)
+3. Place it in your OpenRGB plugins folder:
    - Windows: `%APPDATA%\OpenRGB\plugins`
    - Linux: `~/.config/OpenRGB/plugins`
-3. Run OpenRGB
-4. Configure your Home Assistant connection:
+4. Run OpenRGB
+5. Configure your Home Assistant connection:
    - Enter your Home Assistant URL
    - Add your Long-Lived Access Token
    - Select the lights you want to control
