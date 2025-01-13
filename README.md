@@ -1,4 +1,4 @@
-# HA Light Sync Plugin for OpenRGB
+# Home Assistant Plugin for OpenRGB
 
 A Home Assistant integration plugin for OpenRGB that allows you to control your Home Assistant lights directly through the OpenRGB interface, enabling seamless synchronization between your PC RGB devices and smart home lighting.
 
@@ -22,30 +22,14 @@ As such:
 ## Features
 
 - Direct Integration: Connect directly to your Home Assistant instance
-- Secure Authentication: Uses Home Assistant long-lived access tokens
 - Auto-Discovery: Automatically finds compatible lights in your Home Assistant setup
 - Real-time Control: Instant response to lighting changes
 - Persistent Settings: Saves your configuration and device selections
 - Device Management: Add or remove lights easily
-- Status Monitoring: Clear connection and error status display
-- Color Synchronization: Full RGB color control
-- Brightness Control: Adjust brightness levels directly
-- State Management: Track and control on/off states
-
-## Planned Features
-
-Future development plans include:
-- Effect synchronization
-- Group control options
-- Advanced color patterns
-- Scene integration
-- Automated discovery of Home Assistant instance
-- Enhanced error handling and recovery
-- More detailed device status information
 
 ## Installation
 
-1. Download the plugin file (HA Light Sync.dll)
+1. Download the plugin file (Home Assistant.dll)
 2. Place it in your OpenRGB plugins folder:
    - Windows: `%APPDATA%\OpenRGB\plugins`
    - Linux: `~/.config/OpenRGB/plugins`
@@ -71,7 +55,7 @@ This plugin is in early alpha stage. While core functionality works, expect some
 
 ## Supporting Development
 
-This project is developed using AI assistance, which involves subscription and API costs. If you find the HA Light Sync Plugin useful and would like to support its continued development, you're welcome to contribute via:
+This project is developed using AI assistance, which involves subscription and API costs. If you find the Home Assistant Plugin useful and would like to support its continued development, you're welcome to contribute via:
 
 <a href="https://www.buymeacoffee.com/Wolfieee"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=Wolfieee&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
